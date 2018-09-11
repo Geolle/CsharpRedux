@@ -1,0 +1,8 @@
+# vs code file
+.vs
+# Compile Results
+bin
+obj
+packages
+*.user
+
